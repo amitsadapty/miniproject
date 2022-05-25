@@ -1,0 +1,3 @@
+[submodule "custompackage"]
+	path = custompackage
+	url = https://github.com/amitsadapty/custompackage.git
